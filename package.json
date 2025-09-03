@@ -1,0 +1,23 @@
+{
+  "name": "altamedica-api-server",
+  "version": "1.0.0",
+  "description": "AltaMedica API Server for Glitch deployment",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  "keywords": [
+    "altamedica",
+    "api",
+    "healthcare",
+    "express",
+    "glitch"
+  ]
+}

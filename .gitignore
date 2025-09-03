@@ -1,0 +1,11 @@
+node_modules/
+.env
+.env.local
+*.log
+.DS_Store
+.vscode/
+railway-login.sh
+railway-login.ps1
+railway-deploy-token.sh
+railway-api-deploy.sh
+render.yaml
